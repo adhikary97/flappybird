@@ -1,0 +1,32 @@
+body{
+    background-color: #546A7B;
+}
+button{
+    display: block;
+    margin: auto;
+    background-color: #3DA5D9;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+h2{
+    font-family: Verdana;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+#point{
+    display: block;
+    text-align: center;
+    font-family: Verdana;
+    margin: auto;
+}
+
+canvas{
+    display: block;
+    margin: auto;
+    border: solid black;
+    border-radius: 5px;
+}
