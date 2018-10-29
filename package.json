@@ -1,0 +1,11 @@
+{
+  "name": "flappybird-finished",
+  "version": "1.0.0",
+  "description": "flappy bird in javascript",
+  "main": "flappy.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Paras Adhikary",
+  "license": "ISC"
+}
