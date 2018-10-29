@@ -2,9 +2,9 @@
   "name": "flappybird-finished",
   "version": "1.0.0",
   "description": "flappy bird in javascript",
-  "main": "index.php",
+  "main": "flappyBird.js",
   "scripts": {
-    "start": "php index.php"
+    "start": "node flappyBird.js"
   },
   "require": {
     "jquery": "^5.6.0"
