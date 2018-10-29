@@ -6,6 +6,9 @@
   "scripts": {
     "start": "php index.php"
   },
+  "require": {
+    "jquery": "^5.6.0"
+  }
   "author": "Paras Adhikary",
   "license": "ISC"
 }
