@@ -2,9 +2,9 @@
   "name": "flappybird-finished",
   "version": "1.0.0",
   "description": "flappy bird in javascript",
-  "main": "index.html",
+  "main": "index.php",
   "scripts": {
-    "start": "open index.html"
+    "start": "php index.php"
   },
   "author": "Paras Adhikary",
   "license": "ISC"
