@@ -1,5 +1,4 @@
 var cvs = $("#canvas")[0];
-//var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
 
 //load images
@@ -101,4 +100,3 @@ function start(){
     }
     draw();
 }
-
