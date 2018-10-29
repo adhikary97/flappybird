@@ -1,3 +1,5 @@
+//= require jquery
+
 var cvs = $("#canvas")[0];
 var ctx = cvs.getContext("2d");
 
