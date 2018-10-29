@@ -2,7 +2,4 @@
   "require" : {
     "jquery": "^5.6.0",
   },
-  "require-dev": {
-    "heroku/heroku-buildpack-php": "*"
-  }
 }
